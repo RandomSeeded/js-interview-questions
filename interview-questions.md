@@ -51,7 +51,7 @@ Source:
 - Apply allows us to execute a function with an array of parameters
   - each parameter is passed to the function individually
   - good for varying number of arguments
-- Call is similar to bind, but takes parameters separated by commas
+- Call is similar to apply, but takes parameters separated by commas
 
 Source:
 
